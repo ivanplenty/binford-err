@@ -1,0 +1,20 @@
+{
+  "name": "binford-err",
+  "version": "0.0.1",
+  "author": "Ivan Plenty <ivanplenty@gmail.com>",
+  "description": "Not so strongly typed error",
+  "main": "./err.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanplenty/binford-err.git"
+  },
+  "keywords": [
+    "binford",
+    "error",
+    "err"
+  ],
+  "dependencies" : {
+    "q" : "0.9.x"
+  },
+  "license": "MIT"
+}
